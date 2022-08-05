@@ -1,0 +1,17 @@
+.header{
+    background-color: #003E6E;
+    /* height: 7vh; */
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    color: white;
+    /* border: 1px solid orange; */
+    outline: 2px solid orange;
+    position: fixed;
+    z-index: 1;
+}
+#imgiReport{
+    height: 98%;
+}
